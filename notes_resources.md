@@ -25,3 +25,10 @@ Link to website's short tutorials:
 
 http://tobyschachman.com/Shadershop/
 ---
+
+### Inigo Quilez sdf
++ Inigo Quilez is a master of shader and ray tracing development. In his website he talks really in depth about how to create visuals using signed distance functions.
+
+In this page he sums up some sdf for common shapes (these are the same used in F3):
+
+http://iquilezles.org/www/articles/distfunctions/distfunctions.htm
