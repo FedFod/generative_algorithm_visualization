@@ -20,5 +20,8 @@ https://en.wikipedia.org/wiki/Penrose_triangle
 
 ### Shader Shop
 + Cool website where to experiment with functions commonly found in shaders in a graphical manner. Those functions are also used inside F3 to generate shapes.
+
 Link to website's short tutorials:
+
 http://tobyschachman.com/Shadershop/
+---
