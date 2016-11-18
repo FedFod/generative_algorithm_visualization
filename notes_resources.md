@@ -39,3 +39,4 @@ https://en.wikipedia.org/wiki/Penrose_triangle
  + https://www.youtube.com/watch?v=v-fMJbYQFYY&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV&index=3
  + https://www.udacity.com/course/deep-learning--ud730
 + MIT Book: http://www.deeplearningbook.org
++ Memo Atken resources: https://github.com/memo/ai-resources
